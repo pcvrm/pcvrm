@@ -1,7 +1,7 @@
 # Wsp Yall I'm pcvrm
 
-What i do **i code in batch**, **i code in python**, and **i code in lua**.  
-Always learning new ways to code and make things work better.
+What i Code in **i code in batch**, **i code in python**, and **i code in lua**.  
+Learning to Get Better Coding LUA
 
 ## Skills
 - Python
