@@ -8,5 +8,5 @@ Always learning new ways to code and make things work better.
 - Lua 
 - Automation & Scripting
 
-## 📫 Contact
+## Contact
 [Discord : 9ng7]  
